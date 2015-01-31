@@ -6,7 +6,7 @@ publised: false
 
 ## Idea 
 
-Aprovechando las caminatas/carreras/viajes y la tecnología actual (smartphone/android)  para releer/escuchar libros
+Aprovechando las caminatas/carreras/viajes y la tecnología actual (smartphone/android)  para releer/escuchar libros/podcast.
 
 ## Material
 
@@ -20,6 +20,6 @@ Aprovechando las caminatas/carreras/viajes y la tecnología actual (smartphone/a
 
 	Otra herramienta que usó mucho es [Pocket](https://play.google.com/store/apps/details?id=com.ideashower.readitlater.pro&hl=es) (antes llamada ReadItLater) una herramienta que permite guardar offline cualquier página web o documento que te interese, de esa manera lo tienes accesible en cualquier punto por lo que es idea para funcionar off-line.
 
-	Uso esta aplicación porque las dos permiten reproducir con una voz sintética en los contenidos que te interese también me gusta mucho que amientrasnen un modo nocturno muy útil cuando lees a oscuras en la cama.
+	Uso estas aplicaciones porque las dos permiten reproducir con una voz sintética los contenidos que me interesan. También me gusta mucho que ambas tienen un modo nocturno muy útil cuando lees a oscuras en la cama.
 
-* Contenidos 
+* Contenidos Se trata de encontrar contenidos que te interesen y que sean cómodos de escuchar. Personalmente he oido de todo: desde novelas hasta libros de divulgación científica.
